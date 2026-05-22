@@ -20,10 +20,6 @@ Thermal_Network.slx: The Simscape-based lumped-parameter thermal network for the
 init_parameters.m: Loads all motor, vehicle, and thermal parameters into the workspace prior to simulation.
 plot_simulation_metrics.m: Generates high-fidelity comparative plots for thermal dynamics, torque ripple, and efficiency.
 
-/data/:
-drive_cycles/: Contains standard drive cycle profiles (e.g., WLTP, NEDC) used to test the powertrain.
-results/: Exported simulation data for model fidelity analysis and validation.
-
 🚀 Key Features
 High-Fidelity PMSM Model: Captures both electrical and mechanical dynamics crucial for EV applications.
 Advanced Thermal Modeling: Integrates a detailed thermal management simulation to monitor temperature variations in the stator, rotor, and windings during operation.
