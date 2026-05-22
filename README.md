@@ -1,4 +1,5 @@
 Thermal and Dynamic Modelling of Permanent-Magnet Synchronous Motors (PMSM) Driven Electric Vehicle Powertrain with Dual-Loop Control Strategy
+
 📌 Project Overview
 This repository contains the simulation models, scripts, and datasets associated with the publication: "Thermal and Dynamic Modelling of Permanent-Magnet Synchronous Motors (PMSM) Driven Electric Vehicle Powertrain with Dual-Loop Control Strategy."
 The project focuses on the comprehensive modeling of a PMSM-based electric vehicle (EV) powertrain. It features a robust dual-loop control strategy designed to optimize motor performance while accurately capturing thermal and dynamic behaviors under various drive cycles. This repository provides a high-fidelity framework for analyzing simulation metrics, model accuracy, and real-time powertrain efficiency.
