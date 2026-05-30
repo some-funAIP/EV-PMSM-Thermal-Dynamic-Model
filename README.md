@@ -39,7 +39,7 @@ git clone https://github.com/some-funAPI/EV-PMSM-Thermal-Dynamic-Model.git
 
 📝 Citation
 If you use these models or scripts in your academic work, please cite the original paper:
-Somefun, T. E., et al. (2026), Thermal and Dynamic Modelling of Permanent-Magnet Synchronous Motors (PMSM) Driven Electric Vehicle Powertrain with Dual-Loop Control Strategy. Frontier in Energy Research. DOI: 
+Somefun TE and Longe OM (2026) Thermal and dynamic modelling of permanent-magnet synchronous motors (PMSM) driven electric vehicle powertrain with dual-loop control strategy. Front. Energy Res. 14:1832111. doi: 10.3389/fenrg.2026.1832111 
 
 ✉️ Contact:
 Dr. Tobiloba Emmanuel Somefun, 
